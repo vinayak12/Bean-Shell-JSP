@@ -313,7 +313,7 @@ td {
         </select>
         <label for="<%=KEY_EXPR%>">Or type commands here:</label>
         <textarea id="<%=KEY_EXPR%>" name="<%=KEY_EXPR%>" cols="60" rows="15"><%=hasError?expr:""%></textarea>
-        <input type="submit" value="Run" />
+        <input type="submit" value="Run" accesskey="r" />
       </form>
     </div>
 
