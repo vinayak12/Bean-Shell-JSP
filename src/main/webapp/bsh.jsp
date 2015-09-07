@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <%--
 
  NOT the usual license stuff, SO PLEASE READ:
@@ -1122,4 +1121,3 @@ public static class FilteredJspWriter extends PrintWriter {
   }
 }
 %>
->>>>>>> f55df34fcaf0a8bb59214cd0cc57d266e70e4aef
