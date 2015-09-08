@@ -7,6 +7,7 @@ Demo http://bsh-vinayak.rhcloud.com/bsh.jsp
 Past below code in the Demo App
 
 public static void fibonacci(int n) { 
+
        if (n == 0) { 
            gOut.println("0"); 
        } else if (n == 1) { 
