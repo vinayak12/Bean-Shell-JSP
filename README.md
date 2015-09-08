@@ -6,22 +6,5 @@ Demo http://bsh-vinayak.rhcloud.com/bsh.jsp
 
 Past below code in the Demo App
 
-public static void fibonacci(int n) { 
-       if (n == 0) { 
-           gOut.println("0"); 
-       } else if (n == 1) { 
-           gOut.println("0 1"); 
-       } else { 
-           System.out.print("0 1 "); 
-           int a = 0; 
-           int b = 1; 
-           for (int i = 1; i < n; i++) { 
-               int nextNumber = a + b; 
-               gOut.print(nextNumber + " "); 
-               a = b; 
-               b = nextNumber; 
-           } 
-       } 
-   }
-   
-fibonacci(10);
+https://gist.github.com/vinayak12/46afec94298f3ca096df#file-fibonacci-java
+
