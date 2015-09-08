@@ -2,7 +2,7 @@
 
 It a WEB based REPL(Read–eval–print loop) tool for JAVA based on Bean Shell and JSP.
 
-Demo http://bsh-vinayak.rhcloud.com/bsh.jsp
+Demo http://goo.gl/b0ZzY0
 
 Past below code in the Demo App
 
